@@ -19,7 +19,7 @@ As a Data Scientist at Hass Consulting Company, a leader in the real estate indu
 
 To run this project, you'll need Python and the necessary libraries installed on your machine. You can install the required dependencies using the following command:
 
-```bash
+
 pip install -r requirements.txt
 
 
