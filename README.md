@@ -1,4 +1,4 @@
-# Moringa-Core-Independent-Project-Week-2
+# Predicting Bank Account Usage Likelihood
 
 ## Introduction
 
